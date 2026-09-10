@@ -27,7 +27,12 @@ Run the notebook directly in your browser:
 
 | Original | Grayscale | Sepia | Blur | Edge Detection |
 |----------|-----------|-------|------|----------------|
-| ![original](original.png) | ![grayscale](grayscale.png) | ![sepia](sepia.png) | ![blur](blur.png) | ![edge](edge.png) |
+| ![original]<img width="277" height="490" alt="image" src="https://github.com/user-attachments/assets/68f0ece9-6244-4b6e-9577-d11a0dd73c9a" />
+| ![grayscale] <img width="312" height="551" alt="image" src="https://github.com/user-attachments/assets/5a8ecab1-1680-4a97-ab19-753fb4c3f02e" />
+| ![sepia]<img width="226" height="390" alt="image" src="https://github.com/user-attachments/assets/0466a418-5a96-4ef1-bd09-bfa71d5b7812" />
+ | ![blur]<img width="197" height="345" alt="image" src="https://github.com/user-attachments/assets/2585621e-038e-4885-880a-4b3999682644" />
+ | ![edge]<img width="297" height="521" alt="image" src="https://github.com/user-attachments/assets/2e1d8d65-16dd-4256-9f8b-ad47f83d918b" />
+|
 
 ## Technical Architecture
 - **Language**: Python with PyCUDA
